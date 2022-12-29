@@ -1,0 +1,5 @@
+D:\DirLink\Documentos\GitHub\test2Docker\App\bin\Rlease\net6.0\publish\DotNet.Docker.exe
+D:\DirLink\Documentos\GitHub\test2Docker\App\bin\Rlease\net6.0\publish\DotNet.Docker.dll
+D:\DirLink\Documentos\GitHub\test2Docker\App\bin\Rlease\net6.0\publish\DotNet.Docker.deps.json
+D:\DirLink\Documentos\GitHub\test2Docker\App\bin\Rlease\net6.0\publish\DotNet.Docker.runtimeconfig.json
+D:\DirLink\Documentos\GitHub\test2Docker\App\bin\Rlease\net6.0\publish\DotNet.Docker.pdb
